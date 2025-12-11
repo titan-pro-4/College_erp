@@ -120,10 +120,13 @@ The app works in two modes:
 
 The app automatically detects if Supabase is configured and falls back to mock data if not.
 
-## License
-
-MIT
-
 ## Support
 
 For issues and questions, check the documentation or create an issue.
+
+## 👨‍💻 Developed By
+
+**Hemant Kumar Dhangar**    
+**Mayank Singh**  
+**Mrityunjay Singh** 
+ 
